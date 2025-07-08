@@ -1,8 +1,16 @@
 # Changelog
 
-## [release/0.0.26](https://github.com/NASA-PDS/nucleus-tools-java/tree/release/0.0.26) (2025-06-12)
+## [release/0.0.32](https://github.com/NASA-PDS/nucleus-tools-java/tree/release/0.0.32) (2025-07-08)
 
-[Full Changelog](https://github.com/NASA-PDS/nucleus-tools-java/compare/v0.0.25...release/0.0.26)
+[Full Changelog](https://github.com/NASA-PDS/nucleus-tools-java/compare/v0.0.26...release/0.0.32)
+
+**Other closed issues:**
+
+- Modify the GitHub actions to build and publish docker image of Nucleus-tools.java repository to Docker Hub [\#14](https://github.com/NASA-PDS/nucleus-tools-java/issues/14)
+
+## [v0.0.26](https://github.com/NASA-PDS/nucleus-tools-java/tree/v0.0.26) (2025-06-12)
+
+[Full Changelog](https://github.com/NASA-PDS/nucleus-tools-java/compare/v0.0.25...v0.0.26)
 
 ## [v0.0.25](https://github.com/NASA-PDS/nucleus-tools-java/tree/v0.0.25) (2025-06-11)
 
