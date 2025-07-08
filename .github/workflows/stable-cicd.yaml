@@ -79,11 +79,14 @@ jobs:
                     maven-build-phases: install
                     maven-doc-phases: clean,site,package
                     maven-stable-artifact-phases: clean,site,site:stage,deploy
+                    # Ignore tests for now
+                    maven-test-phases: help:help
                 env:
                     central_portal_username: ${{secrets.CENTRAL_REPOSITORY_USERNAME}}
                     central_portal_token: ${{secrets.CENTRAL_REPOSITORY_TOKEN}}
                     CODE_SIGNING_KEY: ${{secrets.CODE_SIGNING_KEY}}
                     ADMIN_GITHUB_TOKEN: ${{secrets.ADMIN_GITHUB_TOKEN}}
+                    JAVA_HOME: /usr/lib/jvm/java-17-openjdk
             -
                 name: 🫙 Jar and Tag Determination
                 id: jartag
