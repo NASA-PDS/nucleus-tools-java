@@ -73,6 +73,20 @@ POSSIBILITY OF SUCH DAMAGE.
         <tag>main</tag>
     </scm>
 
+    <dependencyManagement>
+        <dependencies>
+            <!-- Pin Netty to a newer version than the one pulled in transitively by
+                 software.amazon.awssdk:netty-nio-client. -->
+            <dependency>
+                <groupId>io.netty</groupId>
+                <artifactId>netty-bom</artifactId>
+                <version>4.1.139.Final</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
     <dependencies>
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
