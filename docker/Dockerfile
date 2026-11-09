@@ -28,7 +28,7 @@
 # ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 # POSSIBILITY OF SUCH DAMAGE.
 
-FROM amazoncorretto:17-alpine
+FROM amazoncorretto:27-alpine
 
 ARG nucleus_tools_jar
 COPY ${nucleus_tools_jar} /app.jar
