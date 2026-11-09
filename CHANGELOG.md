@@ -1,11 +1,12 @@
 # Changelog
 
-## [«unknown»](https://github.com/NASA-PDS/nucleus-tools-java/tree/«unknown») (2026-11-03)
+## [«unknown»](https://github.com/NASA-PDS/nucleus-tools-java/tree/«unknown») (2026-11-09)
 
 [Full Changelog](https://github.com/NASA-PDS/nucleus-tools-java/compare/v0.0.32...«unknown»)
 
 **Other closed issues:**
 
+- Make code improvement [\#82](https://github.com/NASA-PDS/nucleus-tools-java/issues/82)
 - Setup archive buckets in PDS SBN MCP account [\#33](https://github.com/NASA-PDS/nucleus-tools-java/issues/33)
 
 ## [v0.0.32](https://github.com/NASA-PDS/nucleus-tools-java/tree/v0.0.32) (2025-07-08)
