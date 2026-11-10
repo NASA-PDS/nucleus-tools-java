@@ -1,8 +1,8 @@
 # Changelog
 
-## [release/0.0.34](https://github.com/NASA-PDS/nucleus-tools-java/tree/release/0.0.34) (2026-11-09)
+## [release/0.0.38](https://github.com/NASA-PDS/nucleus-tools-java/tree/release/0.0.38) (2026-11-10)
 
-[Full Changelog](https://github.com/NASA-PDS/nucleus-tools-java/compare/v0.0.32...release/0.0.34)
+[Full Changelog](https://github.com/NASA-PDS/nucleus-tools-java/compare/v0.0.32...release/0.0.38)
 
 **Other closed issues:**
 
