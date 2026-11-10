@@ -1,8 +1,8 @@
 # Changelog
 
-## [«unknown»](https://github.com/NASA-PDS/nucleus-tools-java/tree/«unknown») (2026-11-09)
+## [release/0.0.34](https://github.com/NASA-PDS/nucleus-tools-java/tree/release/0.0.34) (2026-11-09)
 
-[Full Changelog](https://github.com/NASA-PDS/nucleus-tools-java/compare/v0.0.32...«unknown»)
+[Full Changelog](https://github.com/NASA-PDS/nucleus-tools-java/compare/v0.0.32...release/0.0.34)
 
 **Other closed issues:**
 
